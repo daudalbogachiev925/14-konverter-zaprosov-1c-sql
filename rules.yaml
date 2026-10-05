@@ -1,0 +1,16 @@
+keywords:
+  ВЫБРАТЬ: SELECT
+  ИЗ: FROM
+  ГДЕ: WHERE
+  ГРУППИРОВАТЬ: GROUP BY
+  УПОРЯДОЧИТЬ: ORDER BY
+  ЛЕВОЕ: LEFT
+  ВНУТРЕННЕЕ: INNER
+  СОЕДИНЕНИЕ: JOIN
+  КАК: AS
+functions:
+  ЕСТЬNULL: COALESCE
+  ВЫРАЗИТЬ: CAST
+  КОЛИЧЕСТВО: COUNT
+  СУММА: SUM
+  МАКСИМУМ: MAX
